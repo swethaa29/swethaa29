@@ -16,6 +16,26 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 
 ---
 
+### Analytics Snapshot
+
+<div align="center">
+
+<img src="./assets/analytics-dashboard.svg" width="100%" alt="analytics dashboard animation" />
+
+</div>
+
+---
+
+### Core Toolkit
+
+<div align="center">
+
+<img src="./assets/skill-bars.svg" width="100%" alt="skill proficiency bars" />
+
+</div>
+
+---
+
 ### Skills & Tools
 
 <details open>
