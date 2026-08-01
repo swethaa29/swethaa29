@@ -12,7 +12,7 @@
 
 ### About Me
 
-Passionate Student, aspiring Business Analyst, Product Designer, ML Enthusiast and a Community Builder with a keen interest in solving real-world problems through innovation, user-centric design, and strategic thinking. I enjoy building meaningful projects, creating impactful experiences, and contributing to communities that drive positive change.
+Passionate student and aspiring **Business Analyst** & **Product Designer**, with a strong interest in **Data Analysis** , **ML**, **Product Design**, and **Strategic Thinking**. I enjoy building meaningful projects, creating impactful experiences, and contributing to communities that drive positive change.
 ---
 
 <div align="center">
