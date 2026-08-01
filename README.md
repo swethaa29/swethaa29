@@ -10,16 +10,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 Passionate student and aspiring **Business Analyst** & **Product Designer**, with a strong interest in **ML**, **UX**, and **strategic thinking**. I enjoy building meaningful projects, creating impactful experiences, and contributing to communities that drive positive change.
 
 ---
 
-### 🧰 Skills & Tools
+### Skills & Tools
 
 <details open>
-<summary><b>📊 Data & Analytics</b></summary>
+<summary><b>Data & Analytics</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=EDE6D6)
@@ -35,7 +35,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 </details>
 
 <details>
-<summary><b>🤖 Machine Learning & AI</b></summary>
+<summary><b>Machine Learning & AI</b></summary>
 <br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=EDE6D6)
@@ -51,7 +51,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 </details>
 
 <details>
-<summary><b>🎨 Design & Product</b></summary>
+<summary><b>Design & Product</b></summary>
 <br>
 
 ![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=EDE6D6)
@@ -63,7 +63,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 </details>
 
 <details>
-<summary><b>💼 Business & Risk</b></summary>
+<summary><b>Business & Risk</b></summary>
 <br>
 
 ![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-111111?style=for-the-badge&logoColor=EDE6D6)
@@ -74,7 +74,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 </details>
 
 <details>
-<summary><b>💻 Core CS</b></summary>
+<summary><b>Core CS</b></summary>
 <br>
 
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=EDE6D6)
@@ -87,7 +87,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 </details>
 
 <details>
-<summary><b>🌐 Web</b></summary>
+<summary><b>Web</b></summary>
 <br>
 
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=EDE6D6)
@@ -98,7 +98,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 </details>
 
 <details>
-<summary><b>🛠 Tools & Platforms</b></summary>
+<summary><b>Tools & Platforms</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=EDE6D6)
@@ -115,23 +115,19 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=EDE6D6&title_color=111111&text_color=111111&icon_color=111111&border_color=111111" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=EDE6D6&title_color=111111&text_color=111111&border_color=111111" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=EDE6D6&stroke=111111&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&currStreakNum=111111&sideNums=111111&dates=111111" />
 
 </div>
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=EDE6D6)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=EDE6D6)](https://twitter.com/YOUR_HANDLE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=EDE6D6)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EDE6D6)](mailto:you@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EDE6D6)](mailto:swethaadaikks@gmail.com)
 
 </div>
 
