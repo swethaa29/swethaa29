@@ -38,8 +38,6 @@
       <circle cx="269" cy="80"  r="0"><animate attributeName="r" from="0" to="4" dur="0.3s" begin="1.9s" fill="freeze"/></circle>
       <circle cx="314" cy="40"  r="0"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="2.1s" fill="freeze"/></circle>
     </g>
-
-    <text x="205" y="215" text-anchor="middle" class="sub" font-size="13">Q1 &#8594; Q6 Growth Trend</text>
   </g>
 
   <!-- divider -->
@@ -47,7 +45,7 @@
 
   <!-- ===== RIGHT: identity block ===== -->
   <g>
-    <text x="440" y="95" class="label" font-size="30" font-weight="700">Business Analyst</text>
+    <text x="440" y="95" class="label" font-size="30" font-weight="700">Data / Business Analyst</text>
     <text x="440" y="125" class="sub" font-size="16">Turning raw data into decisions</text>
 
     <rect x="440" y="140" width="0" height="4" fill="#111111">
@@ -58,18 +56,18 @@
     <g font-family="'Trebuchet MS', sans-serif">
       <g transform="translate(440,165)">
         <rect width="130" height="42" rx="8" fill="#111111" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/></rect>
-        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>Accuracy</text>
-        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>96.4%</text>
+        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>Work Experience</text>
+        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>5+ Months</text>
       </g>
       <g transform="translate(585,165)">
         <rect width="130" height="42" rx="8" fill="#111111" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/></rect>
-        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>Models Built</text>
-        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>12+</text>
+        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>Projects</text>
+        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>5+</text>
       </g>
       <g transform="translate(730,165)">
         <rect width="130" height="42" rx="8" fill="#111111" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/></rect>
-        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/>Insights Shipped</text>
-        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/>40+</text>
+        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/>Programming Experience</text>
+        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/>3+ Years</text>
       </g>
     </g>
   </g>
