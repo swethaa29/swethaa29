@@ -136,7 +136,7 @@ Passionate student and aspiring **Data / Business Analyst** & **Product Designer
 
 <div align="center">
 
-[![LinkedIn](www.linkedin.com/in/swetha-adaikkammai-aba99428a)
+[[![LinkedIn](https://www.linkedin.com/in/swetha-adaikkammai-aba99428a/)](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=EDE6D6)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=EDE6D6)](https://your-portfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EDE6D6)](mailto:swethaadaikks@gmail.com)
 
