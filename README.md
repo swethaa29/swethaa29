@@ -111,7 +111,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
