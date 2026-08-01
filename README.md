@@ -12,7 +12,9 @@
 
 ### About Me
 
-Passionate student and aspiring **Business Analyst** & **Product Designer**, with a strong interest in **Data Analysis** , **ML**, **Product Design**, and **Strategic Thinking**. I enjoy building meaningful projects, creating impactful experiences, and contributing to communities that drive positive change.
+Passionate student and aspiring **Business Analyst** & **Product Designer**, with a strong interest in **ML**, **UX**, and **strategic thinking**. I enjoy building meaningful projects, creating impactful experiences, and contributing to communities that drive positive change.
+
+
 ---
 
 <div align="center">
@@ -41,6 +43,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 ![Excel](https://img.shields.io/badge/Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=EDE6D6)
 
 </details>
+
 
 <details>
 <summary><b>Machine Learning & AI</b></summary>
