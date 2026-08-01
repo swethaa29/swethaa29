@@ -12,11 +12,8 @@
 
 ### About Me
 
-Passionate student and aspiring **Business Analyst** & **Product Designer**, with a strong interest in **ML**, **UX**, and **strategic thinking**. I enjoy building meaningful projects, creating impactful experiences, and contributing to communities that drive positive change.
-
+Passionate Student, aspiring Business Analyst, Product Designer, ML Enthusiast and a Community Builder with a keen interest in solving real-world problems through innovation, user-centric design, and strategic thinking. I enjoy building meaningful projects, creating impactful experiences, and contributing to communities that drive positive change.
 ---
-
-### Analytics Snapshot
 
 <div align="center">
 
@@ -26,15 +23,6 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 
 ---
 
-### Core Toolkit
-
-<div align="center">
-
-<img src="./assets/skill-bars.svg" width="100%" alt="skill proficiency bars" />
-
-</div>
-
----
 
 ### Skills & Tools
 
