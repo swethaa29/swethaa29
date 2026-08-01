@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=EDE6D6&height=180&section=header&text=Hi%20there,%20I'm%20Swetha&fontSize=32&fontColor=111111&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&pause=1500&color=111111&center=true&vCenter=true&width=800&height=60&lines=Creating+things+that+matter%2C+at+the+intersection+of+business%2C+design+%26+tech.;Student+%7C+Aspiring+Business+Analyst+%26+Product+Designer;ML+Enthusiast+%7C+Community+Builder;Solving+real-world+problems+through+innovation+%26+design." />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&pause=1500&color=EDE6D6&center=true&vCenter=true&width=800&height=60&lines=Creating+things+that+matter%2C+at+the+intersection+of+business%2C+design+%26+tech.;Student+%7C+Aspiring+Business+Analyst+%26+Product+Designer;ML+Enthusiast+%7C+Community+Builder;Solving+real-world+problems+through+innovation+%26+design." />
 </a>
 
 </div>
