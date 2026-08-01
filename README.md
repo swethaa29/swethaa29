@@ -20,7 +20,7 @@ Passionate student and aspiring **Business Analyst** & **Product Designer**, wit
 
 <div align="center">
 
-<img src="./assets/analytics-dashboard.svg" width="100%" alt="analytics dashboard animation" />
+<img src="analytics-dashboard.svg" width="100%" alt="analytics dashboard animation" />
 
 </div>
 
