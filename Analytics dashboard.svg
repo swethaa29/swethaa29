@@ -1,0 +1,76 @@
+<svg viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .label { font-family: 'Trebuchet MS', sans-serif; fill: #111111; }
+      .sub   { font-family: 'Trebuchet MS', sans-serif; fill: #6b6255; }
+    </style>
+  </defs>
+
+  <!-- background panel -->
+  <rect x="0" y="0" width="900" height="240" rx="18" fill="#EDE6D6"/>
+
+  <!-- ===== LEFT: animated bar chart ===== -->
+  <g>
+    <line x1="55" y1="190" x2="360" y2="190" stroke="#111111" stroke-width="2"/>
+    <line x1="55" y1="40"  x2="55"  y2="190" stroke="#111111" stroke-width="2"/>
+
+    <!-- bars -->
+    <g fill="#111111">
+      <rect x="75"  y="190" width="28" height="0"><animate attributeName="height" from="0" to="60"  dur="1s" begin="0.0s" fill="freeze"/><animate attributeName="y" from="190" to="130" dur="1s" begin="0.0s" fill="freeze"/></rect>
+      <rect x="120" y="190" width="28" height="0"><animate attributeName="height" from="0" to="95"  dur="1s" begin="0.15s" fill="freeze"/><animate attributeName="y" from="190" to="95" dur="1s" begin="0.15s" fill="freeze"/></rect>
+      <rect x="165" y="190" width="28" height="0"><animate attributeName="height" from="0" to="75"  dur="1s" begin="0.3s" fill="freeze"/><animate attributeName="y" from="190" to="115" dur="1s" begin="0.3s" fill="freeze"/></rect>
+      <rect x="210" y="190" width="28" height="0"><animate attributeName="height" from="0" to="130" dur="1s" begin="0.45s" fill="freeze"/><animate attributeName="y" from="190" to="60" dur="1s" begin="0.45s" fill="freeze"/></rect>
+      <rect x="255" y="190" width="28" height="0"><animate attributeName="height" from="0" to="110" dur="1s" begin="0.6s" fill="freeze"/><animate attributeName="y" from="190" to="80" dur="1s" begin="0.6s" fill="freeze"/></rect>
+      <rect x="300" y="190" width="28" height="0" opacity="0.55"><animate attributeName="height" from="0" to="150" dur="1s" begin="0.75s" fill="freeze"/><animate attributeName="y" from="190" to="40" dur="1s" begin="0.75s" fill="freeze"/></rect>
+    </g>
+
+    <!-- trend line drawn over bars -->
+    <polyline points="89,130 134,95 179,115 224,60 269,80 314,40"
+      fill="none" stroke="#a13d3d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+      stroke-dasharray="400" stroke-dashoffset="400">
+      <animate attributeName="stroke-dashoffset" from="400" to="0" dur="1.4s" begin="1s" fill="freeze"/>
+    </polyline>
+    <g fill="#a13d3d">
+      <circle cx="89"  cy="130" r="0"><animate attributeName="r" from="0" to="4" dur="0.3s" begin="1.1s" fill="freeze"/></circle>
+      <circle cx="134" cy="95"  r="0"><animate attributeName="r" from="0" to="4" dur="0.3s" begin="1.3s" fill="freeze"/></circle>
+      <circle cx="179" cy="115" r="0"><animate attributeName="r" from="0" to="4" dur="0.3s" begin="1.5s" fill="freeze"/></circle>
+      <circle cx="224" cy="60"  r="0"><animate attributeName="r" from="0" to="4" dur="0.3s" begin="1.7s" fill="freeze"/></circle>
+      <circle cx="269" cy="80"  r="0"><animate attributeName="r" from="0" to="4" dur="0.3s" begin="1.9s" fill="freeze"/></circle>
+      <circle cx="314" cy="40"  r="0"><animate attributeName="r" from="0" to="5" dur="0.3s" begin="2.1s" fill="freeze"/></circle>
+    </g>
+
+    <text x="205" y="215" text-anchor="middle" class="sub" font-size="13">Q1 &#8594; Q6 Growth Trend</text>
+  </g>
+
+  <!-- divider -->
+  <line x1="410" y1="30" x2="410" y2="210" stroke="#111111" stroke-width="1" opacity="0.25"/>
+
+  <!-- ===== RIGHT: identity block ===== -->
+  <g>
+    <text x="440" y="95" class="label" font-size="30" font-weight="700">Business Analyst</text>
+    <text x="440" y="125" class="sub" font-size="16">Turning raw data into decisions</text>
+
+    <rect x="440" y="140" width="0" height="4" fill="#111111">
+      <animate attributeName="width" from="0" to="220" dur="1s" begin="0.6s" fill="freeze"/>
+    </rect>
+
+    <!-- KPI chips -->
+    <g font-family="'Trebuchet MS', sans-serif">
+      <g transform="translate(440,165)">
+        <rect width="130" height="42" rx="8" fill="#111111" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/></rect>
+        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>Accuracy</text>
+        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>96.4%</text>
+      </g>
+      <g transform="translate(585,165)">
+        <rect width="130" height="42" rx="8" fill="#111111" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/></rect>
+        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>Models Built</text>
+        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.4s" fill="freeze"/>12+</text>
+      </g>
+      <g transform="translate(730,165)">
+        <rect width="130" height="42" rx="8" fill="#111111" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/></rect>
+        <text x="14" y="18" fill="#EDE6D6" font-size="11" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/>Insights Shipped</text>
+        <text x="14" y="34" fill="#EDE6D6" font-size="16" font-weight="700" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.6s" fill="freeze"/>40+</text>
+      </g>
+    </g>
+  </g>
+</svg>
